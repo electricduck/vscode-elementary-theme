@@ -5,6 +5,9 @@
     "description": "elementaryOS theme for VSCode: light and dark variants, both lovely.",
     "publisher": "electricduck",
     "repository": "https://github.com/electricduck/vscode-elementary-theme",
+    "bugs": {
+        "url": "https://github.com/electricduck/vscode-elementary-theme/issues"
+    },
     "license": "MIT",
     "icon": "images/icon.png",
     "keywords": [
