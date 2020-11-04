@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/electricduck/vscode-elementary-theme">
-    <img src="https://raw.githubusercontent.com/electricduck/vscode-elementary-theme/master/images/logo.png" width=128>
+    <img src="https://raw.githubusercontent.com/electricduck/vscode-elementary-theme/master/images/icon.png" width=128>
   </a>
 
   <h3 align="center"><strong>elementary Theme</strong> <sup>for VSCode</sup></h3>
