@@ -1,0 +1,38 @@
+{
+    "name": "elementary-theme",
+    "version": "1.51.0",
+    "displayName": "elementary Theme",
+    "description": "elementaryOS theme for VSCode: light and dark variants, both lovely.",
+    "publisher": "electricduck",
+    "repository": "https://github.com/electricduck/vscode-elementary-theme",
+    "license": "MIT",
+    "icon": "images/icon.png",
+    "keywords": [
+        "code",
+        "dark",
+        "elementary",
+        "elementaryos",
+        "light",
+        "linux"
+    ],
+    "engines": {
+        "vscode": "^1.20.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "elementary Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark-color-theme.json"
+            },
+            {
+                "label": "elementary Light",
+                "uiTheme": "vs",
+                "path": "./themes/Light-color-theme.json"
+            }
+        ]
+    }
+}
