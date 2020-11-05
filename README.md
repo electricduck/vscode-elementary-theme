@@ -3,14 +3,19 @@
     <img src="https://raw.githubusercontent.com/electricduck/vscode-elementary-theme/master/images/icon.png" width=128>
   </a>
 
-  <h3 align="center"><strong>elementary Theme</strong> <sup>for VSCode</sup></h3>
+  <h3 align="center"><strong>elementary Theme</strong></h3>
 
   <p align="center">
     <a href="https://elementary.io/">elementaryOS</a> theme for <a href="https://code.visualstudio.com/">VSCode</a>: light and dark variants, both lovely.
   </p>
 
-  <p align="center">
+  <p align="center" style="font-variant: small-caps;">
     <code>ext install electricduck.elementary-theme</code>
+    <br />
+    <strong>
+      <a href="https://marketplace.visualstudio.com/items?itemName=electricduck.elementary-theme">ᴠɪsᴜᴀʟ sᴛᴜᴅɪᴏ ᴍᴀʀᴋᴇᴛᴘʟᴀᴄᴇ</a> &bull;
+      <a href="https://open-vsx.org/extension/electricduck/elementary-theme">ᴏᴘᴇɴ ᴠsx</a>
+    </strong>
   </p>
   
   <p align="center">
