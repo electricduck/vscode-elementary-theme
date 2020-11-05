@@ -65,6 +65,7 @@
         "editorGroupHeader.border": "#b1b1b1",
         "editorGroupHeader.noTabsBackground": "#ffffff",
         "editorGroupHeader.tabsBackground": "#ffffff",
+        "editorGroupHeader.tabsBorder": "#b1b1b1",
         "tab.activeBorder": "#ffffff",
         "tab.activeForeground": "#333333",
         "tab.border": "#c7c7c7",
@@ -74,13 +75,8 @@
         "tab.unfocusedInactiveForeground": "#666666",
 
         // Editor (Text)
-        "editor.findMatchBackground": "#ddf34c77",
-        "editor.findMatchHighlightBackground": "#ffff0077",
-        "editor.lineHighlightBackground": "#eeeeec",
-        "editor.rangeHighlightBackground": "#eeeeec",
-        "editorBracketMatch.background": "#ffff00",
-        "editorCursor.foreground": "#839496",
-        "editorLineNumber.foreground": "#666666",
+        "editor.lineHighlightBackground": "#ffffff11",
+        "editor.lineHighlightBorder": "#00000000",
 
         // Terminal
         "terminal.ansiBlack": "#073642",
@@ -153,7 +149,7 @@
         "activityBar.activeFocusBorder": "#ffffff",
         "activityBar.foreground": "#ffffff",
         "statusBar.debuggingForeground": "#ffffff",
-        "activityBar.inactiveForeground": "#ffffff55",
+        "activityBar.inactiveForeground": "#ffffff77",
 
         // Focus [Blueberry 700 / White]
         "activityBarBadge.background": "#0d52bf",
