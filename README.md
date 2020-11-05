@@ -13,7 +13,7 @@
     <code>ext install electricduck.elementary-theme</code>
     <br />
     <strong>
-      <a href="https://marketplace.visualstudio.com/items?itemName=electricduck.elementary-theme">ᴠɪsᴜᴀʟ sᴛᴜᴅɪᴏ ᴍᴀʀᴋᴇᴛᴘʟᴀᴄᴇ</a> &bull;
+      <a href="https://marketplace.visualstudio.com/items?itemName=electricduck.elementary-theme">ᴠɪsᴜᴀʟ sᴛᴜᴅɪᴏ ᴍᴀʀᴋᴇᴛᴘʟᴀᴄᴇ</a> |
       <a href="https://open-vsx.org/extension/electricduck/elementary-theme">ᴏᴘᴇɴ ᴠsx</a>
     </strong>
   </p>
