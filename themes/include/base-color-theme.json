@@ -154,7 +154,7 @@
         "activityBar.activeFocusBorder": "#ffffff",
         "activityBar.foreground": "#ffffff",
         "statusBar.debuggingForeground": "#ffffff",
-        "activityBar.inactiveForeground": "#ffffff55",
+        "activityBar.inactiveForeground": "#ffffff77",
 
         // Focus [Blueberry 700 / White]
         "activityBarBadge.background": "#0d52bf",
