@@ -79,7 +79,6 @@
 
         // Editor (Text)
         "editorCursor.foreground": "#839496",
-        "editorLineNumber.activeForeground": "#6e8a93",
         "editorLineNumber.foreground": "#566c74",
 
         // Terminal

@@ -8,10 +8,8 @@
         // To sort
         "editor.background": "#fdf6e3",
         "editor.foreground": "#586e75",
+        "editor.lineHighlightBackground": "#eee8d5",
         "editor.selectionBackground": "#7e808777",
-        "editor.findMatchBackground": "#b5890077",
-        "editor.findMatchHighlightBackground": "#93a1a177",
-        "editorBracketMatch.background": "#b5890077",
         "editorCursor.foreground": "#657b83",
         "editorGroupHeader.border": "#e9d18d",
         "editorGroupHeader.noTabsBackground": "#fbefce",

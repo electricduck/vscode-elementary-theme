@@ -75,13 +75,8 @@
         "tab.unfocusedInactiveForeground": "#666666",
 
         // Editor (Text)
-        "editor.findMatchBackground": "#ddf34c77",
-        "editor.findMatchHighlightBackground": "#ffff0077",
         "editor.lineHighlightBackground": "#ffffff11",
-        "editor.rangeHighlightBackground": "#ffffff11",
-        "editorBracketMatch.background": "#ffff00",
-        "editorCursor.foreground": "#839496",
-        "editorLineNumber.foreground": "#666666",
+        "editor.lineHighlightBorder": "#00000000",
 
         // Terminal
         "terminal.ansiBlack": "#073642",
