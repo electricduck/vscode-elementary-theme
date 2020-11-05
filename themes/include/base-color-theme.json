@@ -65,6 +65,7 @@
         "editorGroupHeader.border": "#b1b1b1",
         "editorGroupHeader.noTabsBackground": "#ffffff",
         "editorGroupHeader.tabsBackground": "#ffffff",
+        "editorGroupHeader.tabsBorder": "#b1b1b1",
         "tab.activeBorder": "#ffffff",
         "tab.activeForeground": "#333333",
         "tab.border": "#c7c7c7",
@@ -76,8 +77,8 @@
         // Editor (Text)
         "editor.findMatchBackground": "#ddf34c77",
         "editor.findMatchHighlightBackground": "#ffff0077",
-        "editor.lineHighlightBackground": "#eeeeec",
-        "editor.rangeHighlightBackground": "#eeeeec",
+        "editor.lineHighlightBackground": "#ffffff11",
+        "editor.rangeHighlightBackground": "#ffffff11",
         "editorBracketMatch.background": "#ffff00",
         "editorCursor.foreground": "#839496",
         "editorLineNumber.foreground": "#666666",

@@ -8,7 +8,6 @@
         // To sort
         "editor.background": "#fdf6e3",
         "editor.foreground": "#586e75",
-        "editor.lineHighlightBackground": "#eee8d5",
         "editor.selectionBackground": "#7e808777",
         "editor.findMatchBackground": "#b5890077",
         "editor.findMatchHighlightBackground": "#93a1a177",
@@ -17,6 +16,7 @@
         "editorGroupHeader.border": "#e9d18d",
         "editorGroupHeader.noTabsBackground": "#fbefce",
         "editorGroupHeader.tabsBackground": "#fbefce",
+        "editorGroupHeader.tabsBorder": "#e9d18d",
         "editorGutter.background": "#eee8d5",
         "editorHoverWidget.background": "#ccc4b0",
         "editorLineNumber.foreground": "#9ca8a6",
