@@ -9,13 +9,11 @@
     <a href="https://elementary.io/">elementaryOS</a> theme for <a href="https://code.visualstudio.com/">VSCode</a>: light and dark variants, both lovely.
   </p>
 
-  <p align="center" style="font-variant: small-caps;">
+  <p align="center">
     <code>ext install electricduck.elementary-theme</code>
     <br />
-    <strong>
-      <a href="https://marketplace.visualstudio.com/items?itemName=electricduck.elementary-theme">ᴠɪsᴜᴀʟ sᴛᴜᴅɪᴏ ᴍᴀʀᴋᴇᴛᴘʟᴀᴄᴇ</a> |
-      <a href="https://open-vsx.org/extension/electricduck/elementary-theme">ᴏᴘᴇɴ ᴠsx</a>
-    </strong>
+    <a href="https://marketplace.visualstudio.com/items?itemName=electricduck.elementary-theme">Visual Studio Marketplace</a> &bull;
+    <a href="https://open-vsx.org/extension/electricduck/elementary-theme">Open VSX</a>
   </p>
   
   <p align="center">
