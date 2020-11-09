@@ -6,6 +6,11 @@ The format adheres to [Keep a Changelog](https://keepachangelog.com/en/1.0.0/). 
  * **Minor:** elementaryOS version (major/minor) version based on void of a period (i.e. 5.1 is `51`, 6.0 is `60`, 12.3 is `123`)
  * **Patch:** Additions and bug fixes
 
+## [1.51.2] - 2020-11-09
+
+### Added
+- [#2] New themes: **Darker**, **Lighter**
+
 ## [1.51.1] - 2020-11-05
 
 ### Added

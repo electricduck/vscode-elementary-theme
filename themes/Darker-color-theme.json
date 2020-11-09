@@ -3,7 +3,7 @@
     "include": "./Dark-color-theme.json",
     "colors": {
         "activityBar.activeBorder": "#a56de2",
-        "activityBar.background": "#333333",
+        "activityBar.background": "#383838",
         "activityBar.foreground": "#a56de2",
         "activityBar.inactiveForeground": "#ffffff55"
     }
