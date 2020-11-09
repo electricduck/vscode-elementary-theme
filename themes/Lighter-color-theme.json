@@ -1,0 +1,11 @@
+{
+    "type": "light",
+    "include": "./Light-color-theme.json",
+    "colors": {
+        "activityBar.activeBorder": "#7239b3",
+        "activityBar.activeFocusBorder": "#7239b3",
+        "activityBar.background": "#d4d4d4",
+        "activityBar.foreground": "#7239b3",
+        "activityBar.inactiveForeground": "#00000055"
+    }
+}

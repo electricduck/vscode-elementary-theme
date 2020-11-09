@@ -34,8 +34,8 @@
         "sideBarSectionHeader.border": "#b8b8b8",
 
         // Borders (Tertiary)
-        "activityBar.border": "#979797",
-        "titleBar.border": "#979797",
+        "activityBar.border": "#a7a7a7",
+        "titleBar.border": "#a7a7a7",
 
         // Widgets (Background)
         "checkbox.background": "#f5f5f5",

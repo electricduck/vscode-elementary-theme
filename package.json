@@ -32,9 +32,19 @@
                 "path": "./themes/Dark-color-theme.json"
             },
             {
+                "label": "elementary Darker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Darker-color-theme.json"
+            },
+            {
                 "label": "elementary Light",
                 "uiTheme": "vs",
                 "path": "./themes/Light-color-theme.json"
+            },
+            {
+                "label": "elementary Lighter",
+                "uiTheme": "vs",
+                "path": "./themes/Lighter-color-theme.json"
             }
         ]
     }

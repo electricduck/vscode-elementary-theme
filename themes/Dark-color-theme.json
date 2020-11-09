@@ -1,5 +1,4 @@
 {
-    "type": "dark",
     "include": "./include/base-color-theme.json",
     "colors": {
         // Background

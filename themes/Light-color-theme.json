@@ -2,10 +2,6 @@
     "type": "light",
     "include": "./include/base-color-theme.json",
     "colors": {
-        // Background
-        "panel.background": "#f1ead8",
-
-        // To sort
         "editor.background": "#fdf6e3",
         "editor.foreground": "#586e75",
         "editor.lineHighlightBackground": "#eee8d5",
@@ -21,6 +17,7 @@
         "editorLineNumber.activeForeground": "#6f7776",
         "editorWhitespace.foreground": "#586e7580",
         "editorWidget.background": "#eee8d5",
+        "panel.background": "#f1ead8",
         "peekViewEditor.background": "#fffbf2",
         "peekViewEditor.matchHighlightBackground": "#7744aa40",
         "terminal.foreground": "#586e75",
