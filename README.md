@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/electricduck/vscode-elementary-theme">
-    <img src="https://raw.githubusercontent.com/electricduck/vscode-elementary-theme/master/images/icon.png" width=128>
+    <img src="https://raw.githubusercontent.com/electricduck/vscode-elementary-theme/release/images/icon.png" width=128>
   </a>
 
   <h3 align="center"><strong>elementary Theme</strong></h3>
@@ -17,6 +17,6 @@
   </p>
   
   <p align="center">
-  <img src="https://raw.githubusercontent.com/electricduck/vscode-elementary-theme/master/images/screenshot.png">
+  <img src="https://raw.githubusercontent.com/electricduck/vscode-elementary-theme/release/images/screenshot.png">
   </p>
 </p>
